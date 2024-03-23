@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\controllers\\estudiantecontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\controllers\\estudiantecontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\repositorios\\estudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\repositorios\\estudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\repositorios\\carrerarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\repositorios\\carrerarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|c:\\users\\raul\\source\\repos\\adsproyecto\\adsproyecto\\adsproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2879FDD-8F85-49B9-821C-FF767661CB3B}|adsProyecto\\adsProyecto.csproj|solutionrelative:adsproyecto\\adsproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudianteControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Controllers\\EstudianteControlador.cs",
+              "RelativeDocumentMoniker": "adsProyecto\\Controllers\\EstudianteControlador.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Controllers\\EstudianteControlador.cs",
+              "RelativeToolTip": "adsProyecto\\Controllers\\EstudianteControlador.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv2UAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:16:12.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudianteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Repositorios\\estudianteRepositorio.cs",
+              "RelativeDocumentMoniker": "adsProyecto\\Repositorios\\estudianteRepositorio.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Repositorios\\estudianteRepositorio.cs",
+              "RelativeToolTip": "adsProyecto\\Repositorios\\estudianteRepositorio.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:46:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Interfaces\\IEstudiante.cs",
+              "RelativeDocumentMoniker": "adsProyecto\\Interfaces\\IEstudiante.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Interfaces\\IEstudiante.cs",
+              "RelativeToolTip": "adsProyecto\\Interfaces\\IEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:39:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "adsProyecto\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Models\\Estudiante.cs",
+              "RelativeToolTip": "adsProyecto\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:33:07.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "carreraRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Repositorios\\carreraRepositorio.cs",
+              "RelativeDocumentMoniker": "adsProyecto\\Repositorios\\carreraRepositorio.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\Repositorios\\carreraRepositorio.cs",
+              "RelativeToolTip": "adsProyecto\\Repositorios\\carreraRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:59:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adsProyecto.csproj",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\adsProyecto.csproj",
+              "RelativeDocumentMoniker": "adsProyecto\\adsProyecto.csproj",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\adsProyecto\\adsProyecto\\adsProyecto.csproj",
+              "RelativeToolTip": "adsProyecto\\adsProyecto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T17:32:10.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

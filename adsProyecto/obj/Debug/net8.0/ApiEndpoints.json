@@ -1,0 +1,285 @@
+[
+  {
+    "ContainingType": "adsProyecto.Controllers.CarreraControlador",
+    "Method": "ActualizarCarrera",
+    "RelativePath": "api/carreras/actualizarCarrera/{idCarrera}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carrera",
+        "Type": "adsProyecto.Models.Carrera",
+        "IsRequired": true
+      },
+      {
+        "Name": "idCarrera",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.CarreraControlador",
+    "Method": "AgregarCarrera",
+    "RelativePath": "api/carreras/agregarCarrera",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carrera",
+        "Type": "adsProyecto.Models.Carrera",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.CarreraControlador",
+    "Method": "ConsultarCarreraPorID",
+    "RelativePath": "api/carreras/consultarCarreraPorID/{idCarrera}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCarrera",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "adsProyecto.Models.Carrera",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.CarreraControlador",
+    "Method": "ConsultarCarreras",
+    "RelativePath": "api/carreras/consultarCarreras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[adsProyecto.Models.Carrera, adsProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.CarreraControlador",
+    "Method": "EliminarCarrera",
+    "RelativePath": "api/carreras/eliminarCarrera/{idCarrera}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCarrera",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.EstudianteControlador",
+    "Method": "ActualizarEstudiante",
+    "RelativePath": "api/estudiantes/actualizarEstudiante/{idEstudiante}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudiante",
+        "Type": "adsProyecto.Models.Estudiante",
+        "IsRequired": true
+      },
+      {
+        "Name": "idEstudiante",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.EstudianteControlador",
+    "Method": "AgregarEstudiante",
+    "RelativePath": "api/estudiantes/agregarEstudiante",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudiante",
+        "Type": "adsProyecto.Models.Estudiante",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.EstudianteControlador",
+    "Method": "ConsultarEstudiantePorID",
+    "RelativePath": "api/estudiantes/consultarEstudiantePorID/{idEstudiate}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idEstudiate",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "adsProyecto.Models.Estudiante",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.EstudianteControlador",
+    "Method": "ConsultarEstudiantes",
+    "RelativePath": "api/estudiantes/consultarEstudiantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[adsProyecto.Models.Estudiante, adsProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.EstudianteControlador",
+    "Method": "EliminarEstudiante",
+    "RelativePath": "api/estudiantes/eliminarEstudiante/{idEstudiante}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "adsProyecto.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[adsProyecto.WeatherForecast, adsProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
